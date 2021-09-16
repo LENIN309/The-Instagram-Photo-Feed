@@ -10,9 +10,15 @@
 .name {
 
     background-color: white;
-    display: flex;
+   
     
 }
 .fondo{
     background-color: rgb(231, 223, 223);
 }
+
+h1{
+
+    text-align: center;
+}
+
