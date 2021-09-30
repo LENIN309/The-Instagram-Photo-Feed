@@ -1,9 +1,10 @@
 .instagram{
 
-    background-color: rgb(207, 19, 19);
+    background-color: white;
     width: 300px;
     height: 300px;
     margin: auto;
+    padding: 0px;
 
 }
 
@@ -22,3 +23,15 @@ h1{
     text-align: center;
 }
 
+p.post-title{
+
+     font-weight: bold;
+     display: flex;
+     justify-content: left;
+     padding: 6px;
+      
+}
+.date{
+    display: flex;
+    justify-content: flex-end;
+}
